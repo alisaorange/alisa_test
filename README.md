@@ -1,0 +1,4 @@
+- yii migrate
+- <url>/super  - создать админа 
+- заполнить в админку поле с названем файла для парсинга (у меня books.json)
+- yii book/parsing
